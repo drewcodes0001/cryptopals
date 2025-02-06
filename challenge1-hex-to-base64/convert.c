@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+#define B64_SIZE 3
 
 void convert(FILE *fp) {
     
